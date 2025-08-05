@@ -27,3 +27,18 @@ Automate the build, test, and deployment of a simple application using Jenkins a
 ## ✅ Outcome
 - Learned how to automate deployments using Jenkins
 - Understood how Docker integrates with CI/CD pipelines
+
+## Deployment Screenshots
+
+### ✅ Jenkins Job Run
+![Jenkins Job Run](./images/jenkins-job-run.png)
+
+### ✅ EC2 Instance Running
+![EC2 Instance](./images/ec2-instance.png)
+
+### ✅ Docker Running the Containers
+![Docker Running](./images/docker-running.png)
+
+### ✅ Application Running in Browser
+![Browser App](./images/browser-app.png)
+
