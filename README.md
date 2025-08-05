@@ -31,7 +31,7 @@ Automate the build, test, and deployment of a simple application using Jenkins a
 ## Deployment Screenshots
 
 ### ✅ Jenkins Job Run
-![Jenkins Job Run](./images/jenkins-job-run.png)
+![Jenkins Job Run](c:\Users\sharm\OneDrive\Pictures\Screenshots\jenkins-job-run.png)
 
 ### ✅ EC2 Instance Running
 ![EC2 Instance](./images/ec2-instance.png)
