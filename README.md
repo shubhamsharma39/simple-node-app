@@ -30,17 +30,16 @@ Automate the build, test, and deployment of a simple application using Jenkins a
 
 ## Deployment Screenshots
 
-# Simple Node App
-
 ## Jenkins Pipeline Overview
-![Jenkins Pipeline](images/jenkins-pipeline.png)
+![Jenkins Pipeline](deployment-screenshots/jenkins-job-run.png)
 
 ## AWS EC2 Instance Details
-![EC2 Instance](images/ec2-instance.png)
+![EC2 Instance](deployment-screenshots/ec2-instance.png)
 
 ## Docker Container Status
-![Docker ps](images/docker-ps.png)
+![Docker ps](deployment-screenshots/docker-running.png)
 
 ## Application Running in Browser
-![App Browser](images/app-browser.png)
+![App Browser](deployment-screenshots/browser-app.png)
+
 
